@@ -4,7 +4,7 @@ A number guessing game that actively dislikes the player.
 
 Unlike a normal guessing game, this one occasionally lies, insults your choices, shifts reality without warning, and generally behaves like an unreliable narrator with access to Python.
 
-#Features
+# Features
 
 * Randomly chosen secret number
 * Sarcastic and insulting responses
