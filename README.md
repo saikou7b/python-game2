@@ -26,7 +26,10 @@ Unlike a normal guessing game, this one occasionally lies, insults your choices,
 
 The game contains:
 
-* Mild psychological warfare
+* Gaslighting
+* Manipulation
+* Reality distortion
+* Occasional number-related crimes
 * Unreliable hints
 * Casual mockery
 * Reality instability
